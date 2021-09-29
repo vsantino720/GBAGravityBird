@@ -8,3 +8,5 @@ RighArrow : Holding this button will move gravity bird right as far as the game 
 
 Hit Backspace at any time to return to the home screen.
 Hit Enter to start the game.
+
+![Welcome screen for GravityBird](https://github.com/vsantino720/GBAGravityBird/blob/main/images/welcome.png?raw=true)
